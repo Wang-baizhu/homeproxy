@@ -5,6 +5,7 @@
 - Steam：https://raw.githubusercontent.com/Wang-baizhu/homeproxy/refs/heads/main/Steam.json
 - cnip：https://raw.githubusercontent.com/Wang-baizhu/homeproxy/refs/heads/main/cnip.json
 - cnsite：https://raw.githubusercontent.com/Wang-baizhu/homeproxy/refs/heads/main/cnsite.srs
+- AD：https://raw.githubusercontent.com/Wang-baizhu/homeproxy/refs/heads/main/AD.srs
 
 ### 参考规则集
 - https://github.com/lyc8503/sing-box-rules/tree/rule-set-geosite
