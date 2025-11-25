@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "rules": [
+	{
+	  "domain": [
+		""  
+	  ],
+	  "domain_suffix": [
+		"ollama.ai",
+		"ollama.com",
+		"cloudflarestorage.com",
+		"notability.com",
+		"apple.com",
+		"quickconnect.to",
+		"www.bingapis.com",
+		"nvidia.com",
+		"cloudflare-ech.com",
+		"mixpanel.com",
+		"posthog.com",
+		"windows.com",
+		"open-meteo.com",
+		"msn.com",
+		"msedge.net",
+		"office.com",
+		"outlook.com",
+		"onedrive.com",
+		"virtualearth.net",
+		"live.com",
+		"bai-keep2025.top",
+		"weatheroffer.com",
+		"cloudflare.com",
+		"hf-mirror.com",
+		"bai-keep2025.top"
+	  ],
+      "ip_cidr": [
+        "10.0.8.1",
+		"10.0.8.10",
+		"43.100.9.247"
+      ]
+	}
+  ]
+}

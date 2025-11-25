@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "steampowered.com",
+        "steamcommunity.com",
+        "steamgames.com",
+        "steamusercontent.com",
+        "steamcontent.com",
+        "steamstatic.com",
+        "steamserver.net",
+        "steam-chat.com",
+        "steam-api.com",
+        "steam.tv",
+        "playartifact.com",
+        "steamdeck.com"
+      ],
+      "domain_suffix": [
+        "steampowered.com",
+        "steamcommunity.com",
+        "steamgames.com",
+        "steamusercontent.com",
+        "steamcontent.com",
+        "steamstatic.com",
+        "steamserver.net",
+        "steam-chat.com",
+        "steam-api.com",
+        "steam.tv",
+        "playartifact.com",
+        "steamdeck.com"
+      ]
+    }
+  ]
+}
