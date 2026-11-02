@@ -2,9 +2,6 @@
   "version": 1,
   "rules": [
 	{
-	  "domain": [
-		""  
-	  ],
 	  "domain_suffix": [
 		"ollama.ai",
 		"ollama.com",
@@ -31,9 +28,7 @@
 		"cloudflare.com",
 		"hf-mirror.com",
 		"bai-keep2025.top"
-	  ],
-      "ip_cidr": [
-      ]
+	  ]
 	}
   ]
 }
